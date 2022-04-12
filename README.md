@@ -1,7 +1,9 @@
 # Eye Region Labeling Tool
 
-### We open eye key-point labeling tool source consists of total 50 points
-### Also provide part of MPIIGAZE labled by us
+We open eye key-point labeling tool source consists of total 50 points
+
+
+Also provide part of MPIIGAZE labled by us
 
 ## **License**   
 The Datasets are under the license of [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -45,8 +47,7 @@ If you take 8 points,
 
 <br/>
 
-It finds the ellipse that suits you best and get 32 points.
-
+It finds the ellipse that suits you best and get 32 points. Each coordinate of points is saved in csv format
 
 <img src="https://user-images.githubusercontent.com/67889349/162896787-5f89d6ee-22d2-4d79-bc6b-74a5a3856747.png" widht="200" height="150"> 
 
